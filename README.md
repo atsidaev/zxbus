@@ -20,7 +20,7 @@ like this on both sides of PCB:
 ## NemoBus
 
 <img align="right" src="https://raw.githubusercontent.com/wiki/atsidaev/zxbus/images/symbol-nemo.png" />
-De-facto standard for Russian clones since late 90s. The first appearence of 62-pin option was Used in KAY-1024, however, 56-pin bus with almost the same signals was used in popular Scorpion ZS-256 computer. On the contrary to the original ZX Spectrum bus, the NemoBus is made as the slot (SL-62, ISA-8 form-factor).
+De-facto standard for Russian clones since late 90s. The first appearence of 62-pin option was in KAY-1024, however, 56-pin bus with almost the same signals was used in popular Scorpion ZS-256 computer. On the contrary to the original ZX Spectrum bus, the NemoBus is made as the slot (SL-62, ISA-8 form-factor).
 
 ![](http://speccy.info/w/images/1/18/P1024sl2_motherboard.jpg)
 
@@ -31,7 +31,7 @@ Extension devices contain edge connector. Since A31 and B31 are not connected (a
 ## Quorum Bus
 
 <img align="right" src="https://raw.githubusercontent.com/wiki/atsidaev/zxbus/images/symbol-quorum.png" />
-The edge connector, which was used in Quorum clone. It is virtually the same as standard ZX Spectrum 48 edge connector, but signals like 12V and video are not connected. Implemented physically as edge connector, but the pins step is of Soviet standard (2.5 mm).
+The edge connector, which was used in Quorum clone. It is virtually the same as standard ZX Spectrum 48 edge connector, but signals like 12V and video are not connected. Implemented physically as an edge connector, but the pins step is of Soviet standard (2.5 mm).
 
 ![](https://raw.githubusercontent.com/wiki/atsidaev/zxbus/images/quorum.jpg)
 
